@@ -1,0 +1,28 @@
+.input {
+    width: 80%;
+    margin: 10px auto;
+    background-color: lightgray;
+    padding: 15px;
+    border-radius: 20px;
+
+}
+
+.jumbotron {
+    border-bottom: 8px black solid;
+
+}
+
+.btn {
+    background-color: dodgerblue;
+    border-radius: 100px;
+    color: white;
+}
+
+.display-4 {
+    font-weight: 700;
+}
+
+.card-footer {
+    text-align: center;
+    margin-top: 20px;
+}
